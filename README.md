@@ -298,12 +298,6 @@ docker compose -f docker-compose.dev.yml up -d --build
 | MINIO_SECRET_KEY  | MinIO Secret Key     | minioadmin     | ✅        |
 | MINIO_BUCKET_NAME | MinIO Bucket Name    | documents      | ✅        |
 
-### Other Configuration
-
-| Parameter | Description      | Default       | Required |
-| --------- | ---------------- | ------------- | -------- |
-| TZ        | Timezone Setting | Asia/Shanghai | ❌        |
-
 ## 🤝 Contributing
 
 We welcome community contributions!
